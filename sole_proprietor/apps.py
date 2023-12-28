@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class IndividualEntrepreneurConfig(AppConfig):
+class SoleProprietorConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'individual_entrepreneur'
+    name = 'sole_proprietor'
