@@ -1,0 +1,2 @@
+class FactoryBaseSerializer:
+    pass
